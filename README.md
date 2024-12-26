@@ -93,11 +93,6 @@ mindmap
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZJJ3298232021/count.svg" alt="访客数量"/>
-</div> 
 
 ## 📫 联系我
 
@@ -106,3 +101,8 @@ mindmap
     <img src="https://img.shields.io/badge/Email-z3298232021%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ZJJ3298232021/count.svg" alt="访客数量"/>
+</div> 
+
