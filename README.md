@@ -43,6 +43,12 @@ hobbies:
   <img src="https://github-profile-trophy.vercel.app/?username=ZJJ3298232021&theme=radical&row=1&column=6" alt="trophy"/>
 </div>
 
+<!-- 贡献图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZJJ3298232021&theme=react-dark" width="100%"/>
+</div>
+
+
 ## 🌱 正在学习
 
 <div align="center">
@@ -85,11 +91,6 @@ mindmap
   
 > *"纸上得来终觉浅，绝知此事要躬行。"*
 
-</div>
-
-<!-- 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZJJ3298232021&theme=react-dark" width="100%"/>
 </div>
 
 ---
