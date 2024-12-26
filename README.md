@@ -78,13 +78,6 @@ mindmap
 
 </div>
 
-## 📫 联系我
-
-<div align="center">
-  <a href="mailto:z3298232021@outlook.com">
-    <img src="https://img.shields.io/badge/Email-z3298232021%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook"/>
-  </a>
-</div>
 
 ## ⭐ 座右铭
 
@@ -104,3 +97,11 @@ mindmap
 <div align="center">
   <img src="https://profile-counter.glitch.me/ZJJ3298232021/count.svg" alt="访客数量"/>
 </div> 
+
+## 📫 联系我
+
+<div align="center">
+  <a href="mailto:z3298232021@outlook.com">
+    <img src="https://img.shields.io/badge/Email-z3298232021%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook"/>
+  </a>
+</div>
