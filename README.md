@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 动态打字效果 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAFBE1&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+I'm+Zank;A+Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=393D41&center=true&vCenter=true&random=false&width=835&lines=Hello+World!+I'm+Zank;A+Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
   <!-- 个性化徽章 -->
   <p>
@@ -57,7 +57,7 @@ hobbies:
   <img src="https://github-profile-trophy.vercel.app/?username=ZJJ3298232021&theme=radical&row=1&column=6" alt="trophy"/>
 </div>
 
-## 🌱 正���学习
+## 🌱 正在学习
 
 <div align="center">
 
@@ -93,9 +93,6 @@ mindmap
 > *"纸上得来终觉浅，绝知此事要躬行。"*
 
 </div>
-
-<!-- 波浪动画 -->
-<img width="100%" alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 <!-- 贡献图 -->
 <div align="center">
