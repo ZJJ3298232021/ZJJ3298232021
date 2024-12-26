@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 动态打字效果 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+I'm+Zank;A+Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DAFBE1&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+I'm+Zank;A+Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
   <!-- 个性化徽章 -->
   <p>
