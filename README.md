@@ -1,16 +1,3 @@
-<div align="center">
-  
-
-  <!-- 个性化徽章 -->
-  <p>
-    <img src="https://img.shields.io/github/followers/ZJJ3298232021?label=Followers&style=social" alt="GitHub Badge">
-    <img src="https://img.shields.io/github/stars/ZJJ3298232021?style=social" alt="GitHub Badge">
-    <img src="https://komarev.com/ghpvc/?username=ZJJ3298232021&color=blueviolet" alt="Profile Views">
-  </p>
-
-</div>
-
-
 ## 📊 统计数据
 
 <div align="center">
@@ -79,4 +66,15 @@ mindmap
   <a href="mailto:z3298232021@outlook.com">
     <img src="https://img.shields.io/badge/Email-z3298232021%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook"/>
   </a>
+</div>
+<div align="center">
+  
+
+  <!-- 个性化徽章 -->
+  <p>
+    <img src="https://img.shields.io/github/followers/ZJJ3298232021?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/stars/ZJJ3298232021?style=social" alt="GitHub Badge">
+    <img src="https://komarev.com/ghpvc/?username=ZJJ3298232021&color=blueviolet" alt="Profile Views">
+  </p>
+
 </div>
