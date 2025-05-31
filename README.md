@@ -16,21 +16,6 @@
   <img height="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/>
 </div>
 
-## 🚀 关于我
-
-```yaml
-name: Zank
-location: China
-education: 
-  - 专业: 计算机科学与技术
-  - 年级: 大三
-current_focus: Web开发 & 后端架构
-hobbies: 
-  - 钻研技术
-  - 自主学习
-  - 探索新知识
-```
-
 
 ## 📊 统计数据
 
