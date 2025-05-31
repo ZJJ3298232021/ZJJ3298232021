@@ -74,7 +74,6 @@ mindmap
   <p>
     <img src="https://img.shields.io/github/followers/ZJJ3298232021?label=Followers&style=social" alt="GitHub Badge">
     <img src="https://img.shields.io/github/stars/ZJJ3298232021?style=social" alt="GitHub Badge">
-    <img src="https://komarev.com/ghpvc/?username=ZJJ3298232021&color=blueviolet" alt="Profile Views">
   </p>
 
 </div>
