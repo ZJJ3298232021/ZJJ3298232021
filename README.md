@@ -1,7 +1,5 @@
 <div align="center">
   
-  <!-- 动态打字效果 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=393D41&center=true&vCenter=true&random=false&width=835&lines=Hello+World!+I'm+Zank;A+Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
   <!-- 个性化徽章 -->
   <p>
@@ -10,10 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=ZJJ3298232021&color=blueviolet" alt="Profile Views">
   </p>
 
-</div>
-
-<div align="center">
-  <img height="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/>
 </div>
 
 
